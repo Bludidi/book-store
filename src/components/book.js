@@ -8,6 +8,9 @@ const Book = ({ bookData }) => (
       <q>{bookData.author}</q>
       <div>
         <button type="submit">Remove</button>
+        <br />
+        <br />
+        <br />
       </div>
     </div>
   </>

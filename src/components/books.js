@@ -1,7 +1,6 @@
 import React from 'react';
 import Book from './book';
 import Addbook from './addBook';
-import './books.css';
 
 const Books = () => (
   <>
