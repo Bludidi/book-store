@@ -25,4 +25,4 @@ const booksReducer = (state = initialState, { type, payload }) => {
   }
 };
 
-export default booksReducer; 
+export default booksReducer;
