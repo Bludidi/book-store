@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Addbook = () => (
+const Addbooks = () => (
   <>
     <h3>ADD NEW BOOK</h3>
     <form>
@@ -11,4 +11,4 @@ const Addbook = () => (
   </>
 );
 
-export default Addbook;
+export default Addbooks;
