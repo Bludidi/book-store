@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 
-const ADD_BOOK = 'Books/books/ADD_BOOK';
-const REMOVE_BOOK = 'Books/books/REMOVE_BOOK';
+const ADD_BOOK = 'book-store/books/ADD_BOOK';
+const REMOVE_BOOK = 'book-store/books/REMOVE_BOOK';
 const initialState = [];
 
 export const addBook = (payload) => ({
