@@ -1,6 +1,6 @@
 /* eslint-disable */ 
 import React from 'react';
-import Book from './Book';
+import Book from './book';
 import Addbooks from './Addbooks';
 
 const Bookstore = () => (
