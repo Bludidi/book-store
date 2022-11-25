@@ -1,11 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# Book-Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is web based app that stores books for users, you can add a book, remove a book, see your progress when reading. 
 
 ## Built With
 
 - Major languages `JavaScript`
-- Frameworks `React`
+- Frameworks `React` and `Redux`
 - Technologies `Git Bash` and `VS Code` 
 
 ## Live Demo (if available)
