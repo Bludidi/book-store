@@ -4,7 +4,6 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -28,19 +27,15 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Book-Store] <a name="about-project"></a>
 
->  
 
 **[Book-Sore]** is web based app that stores books for users, you can add a book, remove a book, see your progress when reading.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -55,19 +50,16 @@
 
 ### Key Features <Storing books></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Add book]**
 - **[Remove book]**
 - **[Use API]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo">[Click here](http://localhost:3000)</a>
 
-> This app is not deployed yet but you test it by simple running `npm start` in the terminal.
+This app is not deployed yet but you test it by simple running `npm start` in the terminal.
 
 - [Live Demo](http://localhost:3000)
 
@@ -81,7 +73,6 @@
 - Open terminal and run git clone using the link 
 - Run NPM run start 
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -94,7 +85,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
