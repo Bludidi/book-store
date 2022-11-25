@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import Navbar from './components/Navbar';
 import Books from './components/Book';
 import Categories from './components/Categories';
-import store from './components/redux/configureStore';
+import store from './redux/configureStore';
 
 const App = () => (
   <>
