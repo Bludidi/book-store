@@ -1,18 +1,20 @@
 /* eslint-disable */ 
 import { Routes, Route } from 'react-router-dom';
+import { Provider } from 'react-redux';
 import Navbar from './components/Navbar';
-import Bookstore from './components/Bookstore';
-import Categories from './components/Categories';
+import Books from './components/book';
+import Categories from './components/categories';
+import store from './redux/configureStore';
 
 const App = () => (
   <>
-    <div>
+    <Provider store={store}>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Bookstore />} />
+        <Route path="/" element={<Books />} />
         <Route path="Categories" element={<Categories />} />
       </Routes>
-    </div>
+    </Provider>
   </>
 );
 
