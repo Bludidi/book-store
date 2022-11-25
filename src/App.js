@@ -2,8 +2,8 @@
 import { Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import Navbar from './components/Navbar';
-import Books from './components/Book';
-import Categories from './components/Categories';
+import Books from './components/book';
+import Categories from './components/categories';
 import store from './redux/configureStore';
 
 const App = () => (
