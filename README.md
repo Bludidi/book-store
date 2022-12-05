@@ -34,7 +34,7 @@
 # 📖 [Book-Store] <a name="about-project"></a>
 
 
-**[Book-Sore]** is web based app that stores books for users, you can add a book, remove a book, see your progress when reading.
+**[Book-Store]** is web based app that stores books for users, you can add a book, remove a book, see your progress when reading.
 
 ## 🛠 Built With <a name="built-with"></a>
 
